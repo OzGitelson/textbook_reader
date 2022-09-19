@@ -130,5 +130,5 @@ dmypy.json
 .pyre/
 
 #input and output
-.txt
-.mp3
+*.txt
+*.mp3
